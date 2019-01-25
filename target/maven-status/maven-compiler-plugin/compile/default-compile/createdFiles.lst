@@ -1,6 +1,0 @@
-org\cg\demo\bean\EasyUIPage.class
-org\cg\demo\controller\UserController.class
-org\cg\demo\pojo\User.class
-org\cg\demo\service\impl\UserServiceImpl.class
-org\cg\demo\mapper\UserMapper.class
-org\cg\demo\service\UserService.class
